@@ -1,0 +1,11 @@
+C:\projects\Personal\Quiz\src\Quiz.Api\bin\Debug\netcoreapp2.1\Quiz.Api.deps.json
+C:\projects\Personal\Quiz\src\Quiz.Api\bin\Debug\netcoreapp2.1\Quiz.Api.runtimeconfig.json
+C:\projects\Personal\Quiz\src\Quiz.Api\bin\Debug\netcoreapp2.1\Quiz.Api.runtimeconfig.dev.json
+C:\projects\Personal\Quiz\src\Quiz.Api\bin\Debug\netcoreapp2.1\Quiz.Api.dll
+C:\projects\Personal\Quiz\src\Quiz.Api\bin\Debug\netcoreapp2.1\Quiz.Api.pdb
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.csprojAssemblyReference.cache
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.csproj.CoreCompileInputs.cache
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.AssemblyInfoInputs.cache
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.AssemblyInfo.cs
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.dll
+C:\projects\Personal\Quiz\src\Quiz.Api\obj\Debug\netcoreapp2.1\Quiz.Api.pdb
