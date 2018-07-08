@@ -11758,11 +11758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Personal\\Quiz\\Quiz.Api2\\Quiz.Api.csproj",
+      "projectUniqueName": "C:\\projects\\Personal\\Quiz\\Quiz.Api\\Quiz.Api.csproj",
       "projectName": "Quiz.Api",
-      "projectPath": "C:\\projects\\Personal\\Quiz\\Quiz.Api2\\Quiz.Api.csproj",
+      "projectPath": "C:\\projects\\Personal\\Quiz\\Quiz.Api\\Quiz.Api.csproj",
       "packagesPath": "C:\\Users\\grant\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Personal\\Quiz\\Quiz.Api2\\obj\\",
+      "outputPath": "C:\\projects\\Personal\\Quiz\\Quiz.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

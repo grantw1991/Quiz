@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "src\Quiz\Quiz.cspro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz.Api.Test.Unit", "test\Quiz.Api.Test.Unit\Quiz.Api.Test.Unit.csproj", "{C129E555-0CE4-4CCA-9E3A-00FCF73019C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Api", "Quiz.Api2\Quiz.Api.csproj", "{76D05847-194A-45BB-A9E5-AE316C233EA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Api", "Quiz.Api\Quiz.Api.csproj", "{76D05847-194A-45BB-A9E5-AE316C233EA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

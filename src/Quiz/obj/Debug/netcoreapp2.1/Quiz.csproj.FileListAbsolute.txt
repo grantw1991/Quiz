@@ -37,7 +37,6 @@ C:\projects\Personal\Quiz\src\Quiz\bin\Debug\netcoreapp2.1\Quiz.dll
 C:\projects\Personal\Quiz\src\Quiz\bin\Debug\netcoreapp2.1\Quiz.pdb
 C:\projects\Personal\Quiz\src\Quiz\bin\Debug\netcoreapp2.1\Quiz.Views.dll
 C:\projects\Personal\Quiz\src\Quiz\bin\Debug\netcoreapp2.1\Quiz.Views.pdb
-C:\projects\Personal\Quiz\src\Quiz\obj\Debug\netcoreapp2.1\Quiz.csprojAssemblyReference.cache
 C:\projects\Personal\Quiz\src\Quiz\obj\Debug\netcoreapp2.1\Quiz.csproj.CoreCompileInputs.cache
 C:\projects\Personal\Quiz\src\Quiz\obj\Debug\netcoreapp2.1\Quiz.RazorAssemblyInfo.cache
 C:\projects\Personal\Quiz\src\Quiz\obj\Debug\netcoreapp2.1\Quiz.RazorAssemblyInfo.cs
