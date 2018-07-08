@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Quiz.Api.Test.Unit
+﻿namespace Quiz.Api.Test.Unit
 {
     public class Class1
     {
